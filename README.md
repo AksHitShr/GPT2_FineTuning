@@ -1,7 +1,6 @@
-## Akshit Sharma (2021101029)
-### ANLP Assignment-3
+## GPT-2 Fine Tuning
 
-#### Files Submitted:
+#### Files:
 ##### Source code files
 - TraditionalFineTuning.py
 - LoRA.py
